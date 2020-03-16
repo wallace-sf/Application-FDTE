@@ -26,7 +26,7 @@ $ yarn
 
 ## Scripts
 ```sh
-# Inicie o projeto em  de desenvolvimento
+# Inicie o projeto em modo de desenvolvimento
 $ yarn start
 $ npm start
 ```
