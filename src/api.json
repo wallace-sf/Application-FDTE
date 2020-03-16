@@ -1,0 +1,95 @@
+{
+  "carousel": [
+    {
+      "image": "/assets/imgs/0x0-1136199322.jpg"
+    },
+    {
+      "image": "/assets/imgs/0x0-1739571290.jpg"
+    },
+    {
+      "image": "/assets/imgs/0x0-3562020429.jpg"
+    }
+  ],
+  "deskSecondary": [
+    {
+      "image": "/assets/imgs/desk-banner-1.png",
+      "title": "Claritas Irium"
+    },
+    {
+      "image": "/assets/imgs/desk-banner-2.png",
+      "title": "Adhemas Ades"
+    }
+  ],
+  "deskBuyLook": {
+    "image": "/assets/imgs/desk-buy-look.png",
+    "title": "Dominico Dhe"
+  },
+  "deskRings": [
+    {
+      "image": "/assets/imgs/desk-ring-1.png",
+      "title": "Anéis"
+    },
+    {
+      "image": "/assets/imgs/desk-ring-2.png",
+      "title": "Brincos"
+    },
+    {
+      "image": "/assets/imgs/desk-ring-3.png",
+      "title": "Colares"
+    }
+  ],
+  "deskLaunch": {
+    "header": {
+      "linesShape": "/assets/imgs/lines-shape.png"
+    },
+    "carousel": [
+      {
+        "image": "/assets/imgs/desk-launch-seal.png",
+        "discount": true
+      },
+      {
+        "image": "/assets/imgs/desk-launch-seal.png",
+        "discount": false
+      },
+      {
+        "image": "/assets/imgs/desk-launch-seal.png",
+        "discount": false
+      }
+    ]
+  },
+  "deskCore": [
+    {
+      "image": "/assets/imgs/desk-core-1.png",
+      "title": "Claritas Irium",
+      "grow": true
+    },
+    {
+      "image": "/assets/imgs/desk-core-2.png",
+      "title": "Adhemas Ades"
+    },
+    {
+      "image": "/assets/imgs/desk-core-3.png",
+      "title": "Claritas Irium"
+    }
+  ],
+  "deskInstagram": [
+    {
+      "image": "/assets/imgs/desk-instagram-1.png"
+    },
+    {
+      "image": "/assets/imgs/desk-instagram-2.png"
+    },
+    {
+      "image": "/assets/imgs/desk-instagram-3.png"
+    },
+    {
+      "image": "/assets/imgs/desk-instagram-4.png"
+    },
+    {
+      "image": "/assets/imgs/desk-instagram-5.png"
+    },
+    {
+      "image": "/assets/imgs/desk-instagram-6.png"
+    }
+  ]
+}
