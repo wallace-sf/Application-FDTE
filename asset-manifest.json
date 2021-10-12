@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Application-FDTE/static/js/main.0bdd3df5.chunk.js",
+    "main.js.map": "/Application-FDTE/static/js/main.0bdd3df5.chunk.js.map",
+    "runtime-main.js": "/Application-FDTE/static/js/runtime-main.792ab882.js",
+    "runtime-main.js.map": "/Application-FDTE/static/js/runtime-main.792ab882.js.map",
+    "static/js/2.dafa4c4e.chunk.js": "/Application-FDTE/static/js/2.dafa4c4e.chunk.js",
+    "static/js/2.dafa4c4e.chunk.js.map": "/Application-FDTE/static/js/2.dafa4c4e.chunk.js.map",
+    "index.html": "/Application-FDTE/index.html",
+    "precache-manifest.723fa6d4dc546e48179060876b46810f.js": "/Application-FDTE/precache-manifest.723fa6d4dc546e48179060876b46810f.js",
+    "service-worker.js": "/Application-FDTE/service-worker.js",
+    "static/js/2.dafa4c4e.chunk.js.LICENSE.txt": "/Application-FDTE/static/js/2.dafa4c4e.chunk.js.LICENSE.txt",
+    "static/media/GeorgiaPro-CondRegular.ttf": "/Application-FDTE/static/media/GeorgiaPro-CondRegular.23e6cf33.ttf",
+    "static/media/discount.svg": "/Application-FDTE/static/media/discount.b63e0e9b.svg",
+    "static/media/georgia.ttf": "/Application-FDTE/static/media/georgia.ca8446d5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.792ab882.js",
+    "static/js/2.dafa4c4e.chunk.js",
+    "static/js/main.0bdd3df5.chunk.js"
+  ]
+}
